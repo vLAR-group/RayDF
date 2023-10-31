@@ -16,7 +16,7 @@ We present a novel ray-based continuous 3D shape representation, called **RayDF*
 
 [//]: # (| ![]&#40;static/blender_lego.gif&#41; | ![]&#40;static/dmsr_restroom.gif&#41; | ![]&#40;static/scannet_scene04.gif&#41; |)
 
-![](static/blender_lego.gif)
+![](static/teaser.mp4)
 ![](static/dmsr_restroom.gif)
 ![](static/scannet_scene04.gif)
 
