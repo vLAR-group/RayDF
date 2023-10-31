@@ -1,0 +1,21 @@
+logdir = logs/classifier
+dataset = dmsr
+radius = 5.5
+
+lrate = 5e-5
+N_rand = 1024
+N_iters = 180000
+grad_clip = 0.1
+
+dist_thres = 0.01
+vis_thres = 0.5
+pos_weight = 1.0
+
+netdepth_cls = 8
+netwidth_cls = 512
+ext_layer_cls = 1
+
+testskip = 1
+i_print = 100
+i_img = 1000
+i_weights = 10000

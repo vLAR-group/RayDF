@@ -1,0 +1,24 @@
+logdir = logs/multiview
+dataset = blender
+radius = 1.5
+
+lrate = 1e-5
+N_rand = 8192
+N_iters = 80000
+grad_clip = 0.1
+
+N_views = 20
+netdepth = 13
+netwidth = 1024
+rgb_layer = 0
+w_rgb = 1.
+
+netdepth_cls = 8
+netwidth_cls = 512
+ext_layer_cls = 1
+pos_weight = 0.1
+
+testskip = 1
+i_print = 100
+i_img = 1000
+i_weights = 10000
