@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
 
 ## RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency (NeurIPS 2023)
-[**Project page**](https://vlar-group.github.io/RayDF.html) |  [**Paper**](xxx) | [**Data**](https://drive.google.com/drive/folders/1ELzsdlc1Bd5C97EHn5P_k8qqM7ZKEFHF?usp=drive_link)
+[**Project page**](https://vlar-group.github.io/RayDF.html) |  [**Paper**](https://arxiv.org/abs/2310.19629) | [**Data**](https://drive.google.com/drive/folders/1ELzsdlc1Bd5C97EHn5P_k8qqM7ZKEFHF?usp=drive_link)
 
 <p align="center"> <img src="static/overview.jpg" width="80%"> </p>
 
