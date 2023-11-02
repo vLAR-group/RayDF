@@ -9,8 +9,9 @@
 
 We present a novel ray-based continuous 3D shape representation, called **RayDF**. Our method achieves a **1000x faster** speed than coordinate-based methods to render an 800 x 800 depth image.
 
-https://github.com/vLAR-group/RayDF/assets/31214093/8cd1d27e-387f-4b19-9bcc-707603b848ac
-
+| ![z](./static/scannet_scene04_geo.gif)   | ![z](./figs/scannet_scene04_tex.gif)   |
+| ---------------------------------------- | -------------------------------------- |
+| ![z](./figs/scannet_scene09_geo.gif)     | ![z](./figs/scannet_scene09_tex.gif)   |
 
 ## 1. Installation
 Create a Conda environment with [miniconda](https://docs.conda.io/en/latest/miniconda.html).
