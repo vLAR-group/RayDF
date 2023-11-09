@@ -88,7 +88,7 @@ CUDA_VISIBLE_DEVICES=0 python run_mv.py --config configs/blender.txt --scene leg
 # compute surface normals
 CUDA_VISIBLE_DEVICES=0 python run_mv.py --config configs/blender.txt --scene lego --eval_only --grad_normal
 ```
-The checkpoints of three datasets are free to download from [Google Drive](https://drive.google.com/drive/folders/1lnCNf27c_loQMaPCAIu-GIVeBWHlZ23T?usp=sharingv) or [Baidu Netdisk]() (Coming soon).
+The checkpoints of three datasets are free to download from [Google Drive](https://drive.google.com/drive/folders/1NuJxBcGqNFkwqvzhNNvUB_F7f6XJ0D9W?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1m2ypVL-OPRuhc0jWYZS7Lg?pwd=vlar).
 
 
 ### Citation
