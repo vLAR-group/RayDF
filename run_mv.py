@@ -224,10 +224,12 @@ def eval(args, dataloader, ray_fn, model, img_i=None, mode='test', log_level=2):
         outputs['rgb_pred'] = outputs['rgb_pred'] * mask + (1. - mask)
         vis_results['color'] = log.to_colormap(outputs['rgb_pred'])
 
+    vis_results['dist_abs'] = outputs['dist_abs'].clone()
+    vis_results['dist_abs'][mask==0] = 1e8
+
     ## remove outliers for tsdf-fusion
     if args.denoise:
         mask = mask * outputs['not_outlier']
-        vis_results['dist_abs'] = outputs['dist_abs'].clone()
         vis_results['dist_abs'][mask==0] = 1e8
 
     if log_level == 1:
