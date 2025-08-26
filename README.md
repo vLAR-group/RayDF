@@ -1,5 +1,5 @@
 [//]: # ([![arXiv]&#40;https://img.shields.io/badge/arXiv-2305.16404-b31b1b.svg&#41;]&#40;https://arxiv.org/abs/xxxx&#41;)
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![License: CC-BY-NC-SA](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue)](./LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
 
 ## RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency (NeurIPS 2023)
